@@ -48,7 +48,8 @@ print("==================================================================")
 
 ## flowchart
 
-![flowchart](https://github.com/dimashst777/tugaspraktikumdimas/blob/master/gambar/Flowchart.png)
+![flowchart](https://github.com/dimashst777/tugaspraktikumdimas/blob/master/gambar/Flowchart.png)  
+
 
 Nama:dimas hidayat parluhutan hutasuhut  
 kelas: TI.19.A.1  
